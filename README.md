@@ -1,1 +1,1 @@
-# mlp_classification
+# mlp-classification
